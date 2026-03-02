@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Delivery Slots by Iconic [Flexible Shipping UPS]
+ * Plugin Name:     WooCommerce Delivery Slots by Kadence [Flexible Shipping UPS]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description:     Compatibility between WooCommerce Delivery Slots by Iconic and Flexible Shipping UPS by WPDesk.
- * Author:          Iconic
- * Author URI:      https://iconicwp.com/
+ * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and Flexible Shipping UPS by WPDesk.
+ * Author:          Kadence WP
+ * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-woo-delivery-slots-compat-flexible-shipping-ups
  * Domain Path:     /languages
  * Version:         0.1.0
