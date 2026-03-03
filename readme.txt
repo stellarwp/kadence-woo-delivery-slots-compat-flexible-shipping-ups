@@ -1,5 +1,5 @@
-=== WooCommerce Delivery Slots by Iconic [Flexible Shipping UPS] ===
-Contributors: iconicwp
+=== WooCommerce Delivery Slots by Kadence [Flexible Shipping UPS] ===
+Contributors: kadence
 Requires at least: 4.5
 Tested up to: 5.6
 Stable tag: 0.1.0
